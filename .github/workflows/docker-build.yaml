@@ -5,7 +5,7 @@ on:
     branches: ['main']
 
 env:
-  DOCER_IMAGE: ghcr.io/jw0202058/study
+  DOCKER_IMAGE: ghcr.io/jw0202058/study
   DOCKER_CONTAINER: study
 
 jobs:      
